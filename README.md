@@ -1,3 +1,5 @@
+<img src="https://i.imgur.com/kPGeY6Q.jpg">
+
 ### Seja bem vindo ao meu repositório! 👋 
 ### aqui é onde posto a maioria dos meus estudos e projetos. 👨‍🎓📝
 
