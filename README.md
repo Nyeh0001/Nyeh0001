@@ -1,5 +1,5 @@
 ### Seja bem vindo ao meu repositório! 👋 
-### aqui fica reunido a maioria dos meus projetos de estudo, a minha evolução diária como programador. 🏆
+### aqui é onde posto a maioria dos meus estudos e projetos. 👨‍🎓📝
 
 ### 📖 Sobre mim
 Comecei aprender programação através de um professor meu
